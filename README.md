@@ -24,5 +24,5 @@ Contract gets compiled, waits to be mined. This is a dev account, so we must sen
 ## Todo:
 ~~take contracts from [sebastians](https://github.com/slavefreetrade/SlaveFreeTrade/tree/master/dapp) dapp (files ending in .sol), script a similiar setup as the greeter where we compile the contract, deploy and listen. User greeter.js and lib/Greeter.coffee as reference.~~~
 
-Using worker identity contract as refernce, implement a contract representing a company wishing to bear the Slavefreetrade certified trademark.
+Using worker identity contract as refernce, implement a contract representing a company wishing to bear the Slavefreetrade certified badge.
 
